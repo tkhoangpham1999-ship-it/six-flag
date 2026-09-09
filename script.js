@@ -13,7 +13,7 @@ const noMessages = [
     "No",
     "Are you positive? 🤔",
     "Pretty please... 🥺",
-    "If you say no, I will be despodent...",
+    "If you say no, I will be despondent...",
     "I will be very sad... 😢",
     "Im on my hands and knees??? 💔🙏",
     "Don't do this to me...",
